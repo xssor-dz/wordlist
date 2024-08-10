@@ -1,3 +1,5 @@
+passwordreset/buildPasswordreset.xml 
+/buildPasswordreset.xml 
 !.gitignore
 !.htaccess
 .svn/entries
